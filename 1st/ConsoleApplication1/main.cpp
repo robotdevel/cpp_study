@@ -12,12 +12,12 @@ int getvaluefromuser()
 	return input;
 }
 
-int main()
-{
-	int num{ getvaluefromuser() };
-
-	std::cout << num << " doubled is: " << num * 2 << '\n';
-
-	return 0;
-}
+//int main()
+//{
+//	int num{ getvaluefromuser() };
+//
+//	std::cout << num << " doubled is: " << num * 2 << '\n';
+//
+//	return 0;
+//}
 
