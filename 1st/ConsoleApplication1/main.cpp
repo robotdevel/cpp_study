@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+#include "header1.h"
+
 int getvaluefromuser()
 {
 	std::cout << "enter and integer : ";
@@ -10,6 +12,12 @@ int getvaluefromuser()
 	std::cin >> input;
 
 	return input;
+}
+
+namespace header1 {
+	int func() {
+		foo();
+	}
 }
 
 //int main()

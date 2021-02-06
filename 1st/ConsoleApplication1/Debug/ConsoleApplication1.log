@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\a\Documents\git_example\cpp_study\1st\Debug\ConsoleApplication1.exe
+C:\Users\a\Documents\git_example\cpp_study\1st\ConsoleApplication1\main.cpp(20): error C4716: 'header1::func': 값을 반환해야 합니다.
